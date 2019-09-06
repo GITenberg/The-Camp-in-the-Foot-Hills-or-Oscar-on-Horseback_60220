@@ -1,0 +1,39 @@
+_repo: The-Camp-in-the-Foot-Hills-or-Oscar-on-Horseback_60220
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: White, George G. (George Gorgas)
+    aliases:
+    - White, George Gorgas
+    - White, G. G.
+    - White, Geo. G.
+    deathdate: 1898
+    gutenberg_agent_id: '33888'
+    url: http://www.gutenberg.org/2009/agents/33888
+creator:
+  author:
+    agent_name: Castlemon, Harry
+    aliases:
+    - Fosdick, Charles Austin
+    - Castlemon, Henry
+    birthdate: 1842
+    deathdate: 1915
+    gutenberg_agent_id: '2274'
+    url: http://www.gutenberg.org/2009/agents/2274
+    wikipedia: https://en.wikipedia.org/wiki/Harry_Castlemon
+description: ''
+gutenberg_issued: '2019-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60220'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'West (U.S.) -- Juvenile fiction'
+- !lcsh 'Hunting -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: The Camp in the Foot-Hills; or, Oscar on Horseback
+url: http://www.gutenberg.org/ebooks/60220
